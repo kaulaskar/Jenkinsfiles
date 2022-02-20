@@ -1,0 +1,12 @@
+pipline{
+
+node any
+
+   stages{
+   
+   stage('coment')
+   steps{ echo " hello git "
+   
+   }
+   }
+   }
